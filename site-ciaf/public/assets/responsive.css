@@ -1,0 +1,38 @@
+@media only screen and (max-width: 500px) {
+  #banner h1{
+    font-size: 16pt !important;
+  }
+
+  #banner h2{
+    font-size: 14pt !important;
+  }
+
+  #banner h3{
+    font-size: 10pt !important;
+  }
+
+  #banner{
+    text-align: center;
+  }
+
+  #banner ul{
+    text-align: left;
+  }
+
+}
+
+@media only screen and (max-width: 500px) {
+  .navbar{
+    background-color: #FFF!important;
+  }
+
+  #navbar{
+    margin-top:0;
+  }
+
+
+  body{
+    padding-bottom:850px;
+  }
+
+}
